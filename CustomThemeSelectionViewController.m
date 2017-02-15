@@ -477,7 +477,7 @@
     self.title = [NSString stringWithFormat:@"Choose %@",_settingsType];
     
     
-    UIBarButtonItem *doneButton = [[UIBarButtonItem alloc]initWithTitle: @"Save" style: UIBarButtonItemStyleBordered target: self action:@selector(doneSelectingTheme:)];
+    UIBarButtonItem *doneButton = [[UIBarButtonItem alloc]initWithTitle: @"Save" style: UIBarButtonItemStylePlain target: self action:@selector(doneSelectingTheme:)];
     
     self.navigationItem.rightBarButtonItem = doneButton;
     

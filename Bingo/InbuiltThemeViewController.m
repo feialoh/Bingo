@@ -71,7 +71,7 @@
     
     self.navigationItem.title=@"Themes";
     
-    UIBarButtonItem *doneButton = [[UIBarButtonItem alloc]initWithTitle: @"Save" style: UIBarButtonItemStyleBordered target: self action:@selector(saveTheme:)];
+    UIBarButtonItem *doneButton = [[UIBarButtonItem alloc]initWithTitle: @"Save" style: UIBarButtonItemStylePlain target: self action:@selector(saveTheme:)];
     
     self.navigationItem.rightBarButtonItem = doneButton;
     

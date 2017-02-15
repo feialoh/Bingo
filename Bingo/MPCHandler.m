@@ -3,7 +3,7 @@
 //  MPCDemo
 //
 //  Created by feialoh on 08/01/14.
-//  Copyright (c) 2014 Gabriel Theodoropoulos. All rights reserved.
+//  Copyright (c) 2013 feialoh. All rights reserved.
 //
 
 #import "MPCHandler.h"

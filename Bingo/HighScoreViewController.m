@@ -45,7 +45,7 @@
     
     [self showBannerAd];
     
-    AppDelegate *appDelegate = [[UIApplication sharedApplication]delegate];
+AppDelegate *appDelegate = (AppDelegate*)[[UIApplication sharedApplication] delegate];
     __managedObjectContext = [appDelegate managedObjectContext];
     
     [self customizeNavigationBar];
@@ -103,7 +103,7 @@
     
     self.navigationItem.title=@"High Scores";
     
-    rightButton = [[UIBarButtonItem alloc] initWithTitle: @"Clear" style: UIBarButtonItemStyleBordered target:self action:@selector(confirmationAlert)];
+    rightButton = [[UIBarButtonItem alloc] initWithTitle: @"Clear" style: UIBarButtonItemStylePlain target:self action:@selector(confirmationAlert)];
     
     
 }
