@@ -20,4 +20,4 @@ A simple game of classic bingo, where each player takes in turn to mark the numb
 
 ## LICENSE
 
- FFImageDrawingTool is available under the MIT license. See the LICENSE file for more info.
+ Bingo is available under the MIT license. See the LICENSE file for more info.
