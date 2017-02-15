@@ -15,10 +15,11 @@ A simple game of classic bingo, where each player takes in turn to mark the numb
  * Gamecenter for Highscores.
  * Change game theme 
 
-## Screenshot
 
-![screenshot1]:https://github.com/feialoh/Bingo/blob/master/bingoScreenshot1.png
-![screenshot2]:https://github.com/feialoh/Bingo/blob/master/bingoScreenshot2.png
+![Alt][screenshot1]		![Alt][screenshot2]
+
+[screenshot1]:https://github.com/feialoh/Bingo/blob/master/bingoScreenshot1.png
+[screenshot2]:https://github.com/feialoh/Bingo/blob/master/bingoScreenshot2.png
 
 ## LICENSE
 
